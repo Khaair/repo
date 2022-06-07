@@ -1,1 +1,3 @@
 This is day 01
+
+I started my journey with cse 2016
